@@ -11,7 +11,7 @@ The fastest way to install a QuizWiz flavor is to click on the filename from the
 * Duplicates the final score, fudge points, and update scores button at the top unless running Speedgrader in grade by question mode. 
 
 ## Auto Advance
-[qw-auto_advance.user.js](https://github.com/jccalhoun/canvancement/tree/master/quizzes/quizwiz/install/qw-auto_advance.user.js) includes the speed enhancements including auto advance without any of the regrade features. 
+[qw-auto_advance.user.js](https://github.com/jccalhoun/canvancement/raw/master/quizzes/quizwiz/install/qw-auto_advance.user.js) includes the speed enhancements including auto advance without any of the regrade features. 
 
 * Automatically expands any comment boxes when the instructor begins typing in them.
 * Duplicates the question header at the bottom of the question.
